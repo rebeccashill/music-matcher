@@ -1,0 +1,22 @@
+{
+  "name": "music-matcher_main",
+  "version": "1.0.0",
+  "description": "music matching app",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rebeccashill/music-matcher.git"
+  },
+  "keywords": [
+    "music"
+  ],
+  "author": "the Rebeccas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rebeccashill/music-matcher/issues"
+  },
+  "homepage": "https://github.com/rebeccashill/music-matcher#readme"
+}
